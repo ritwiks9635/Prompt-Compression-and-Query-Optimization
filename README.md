@@ -1,5 +1,7 @@
 # **💬Prompt-Compression-and-Query-Optimization💬**
 
+[Complete](https://learn.deeplearning.ai/accomplishments/d615ff48-dcce-437b-a593-44ab88d2ee45?usp=sharing)
+
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVMQKfGmrOkpHslnOh6B-3ML4s0uKONhxmkA&usqp=CAU)
 
 ## **What Is Prompt Compression?**
